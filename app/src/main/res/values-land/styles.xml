@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="numberButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">?attr/itemTextColor</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:backgroundTint">?attr/backgroundTint</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:onClick">numberClick</item>
+    </style>
+
+    <style name="moneyButtons" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">@color/buttons_money_bg</item>
+        <item name="android:textColor">@color/buttons_money_tx</item>
+        <item name="android:textSize">20dp</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+</resources>

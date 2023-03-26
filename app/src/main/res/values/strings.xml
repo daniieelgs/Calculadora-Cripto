@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="decimal_separator">.</string>
+    <string name="miller_separator">,</string>
+    <string name="current_money">$</string>
+    <string name="message_dialog_factor">How much %s costs one %s?</string>
+    <string name="neutral_button_dialog">Cancel</string>
+    <string name="positive_yes_button_dialog">Yes</string>
+    <string name="positive_confirm_button_dialog">Confirm</string>
+    <string name="negative_no_button_dialog">No</string>
+    <string name="negative_deny_button_dialog">Deny</string>
+    <string name="message_error_value_factor">The factor value must be greater than 0</string>
+    <string name="message_error_name_alredy_exist">The coin name \'%s\' is already exists</string>
+    <string name="numberAc" translatable="false">AC</string>
+    <string name="numberDelete" translatable="false">⌫</string>
+    <string name="number0" translatable="false">0</string>
+    <string name="number1" translatable="false">1</string>
+    <string name="number2" translatable="false">2</string>
+    <string name="number3" translatable="false">3</string>
+    <string name="number4" translatable="false">4</string>
+    <string name="number5" translatable="false">5</string>
+    <string name="number6" translatable="false">6</string>
+    <string name="number7" translatable="false">7</string>
+    <string name="number8" translatable="false">8</string>
+    <string name="number9" translatable="false">9</string>
+    <string name="moneyBTC" translatable="false">BTC</string>
+    <string name="moneyADA" translatable="false">ADA</string>
+    <string name="moneyETH" translatable="false">ETH</string>
+    <string name="moneyLTC" translatable="false">LTC</string>
+    <string name="equalFactor" translatable="false">%s = %s</string>
+    <string name="titleAddMoney">Add new money</string>
+    <string name="messageAddMoney">New coin name</string>
+    <string name="message_error_coin_name">The coin name can not be null</string>
+    <string name="message_error_max_decimal">It is not possible to enter more than 8 digits</string>
+    <string name="delete">Delete</string>
+    <string name="title_dialog_coin_delete">Deleting %s coin</string>
+    <string name="message_dialog_coin_delete">Are you sure want to delete %s coin definitely?</string>
+    <string name="info_coin_deleted">The coin \'%s\' has been removed</string>
+    <string name="info_coin_created">The coin\'%s\' has been created</string>
+</resources>

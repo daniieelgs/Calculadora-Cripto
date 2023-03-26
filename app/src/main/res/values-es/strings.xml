@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="decimal_separator">,</string>
+    <string name="miller_separator">.</string>
+    <string name="current_money">EURO</string>
+    <string name="message_dialog_factor">¿Cuantos %s cuesta un %s?</string>
+    <string name="neutral_button_dialog">Cancelar</string>
+    <string name="positive_yes_button_dialog">Sí</string>
+    <string name="positive_confirm_button_dialog">Confirmar</string>
+    <string name="negative_no_button_dialog">No</string>
+    <string name="negative_deny_button_dialog">Denegar</string>
+    <string name="message_error_value_factor">El valor del factor debe ser mayor a 0</string>
+    <string name="message_error_name_alredy_exist">El nombre de la moneda \'%s\' ya existe</string>
+    <string name="titleAddMoney">Añadir nueva moneda</string>
+    <string name="messageAddMoney">Nombre de la moneda nueva</string>
+    <string name="message_error_coin_name">El nombre de la moneda no puede ser nulo</string>
+    <string name="message_error_max_decimal">No es posible añadir más de 8 dígitos</string>
+    <string name="delete">Borrar</string>
+    <string name="title_dialog_coin_delete">Borrando moneda %s</string>
+    <string name="message_dialog_coin_delete">¿Está seguro de que desea eliminar la moneda %s?</string>
+    <string name="info_coin_deleted">La moneda \'%s\' ha sido eliminada</string>
+    <string name="info_coin_created">La moneda \'%s\' ha sido creada</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFD9D9D9</color>
+    <color name="gray_dark">#FF424242</color>
+    <color name="light_green">#FFABF765</color>
+    <color name="light_orange">#FFFCA547</color>
+    <color name="dark_orange">#FF956129</color>
+    <color name="red">#FFFF2E2E</color>
+    <color name="snackbar_error">#FFFF5733</color>
+    <color name="snackbar_error_text">@color/black</color>
+    <color name="snackbar_error_action">#FF9929F7</color>
+    <color name="snackbar_info">#FF6A7BC2</color>
+    <color name="snackbar_info_text">@color/white</color>
+    <color name="snackbar_correct">#FF7DC34D</color>
+    <color name="snackbar_correct_text">@color/black</color>
+</resources>

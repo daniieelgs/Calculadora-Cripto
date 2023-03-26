@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="decimal_separator">,</string>
+    <string name="miller_separator">.</string>
+    <string name="current_money">€</string>
+    <string name="message_dialog_factor">Combien de %s coûte un %s ?</string>
+    <string name="neutral_button_dialog">Annuler</string>
+    <string name="positive_yes_button_dialog">Oui</string>
+    <string name="positive_confirm_button_dialog">Confirmer</string>
+    <string name="negative_no_button_dialog">Non</string>
+    <string name="negative_deny_button_dialog">Refuser</string>
+    <string name="message_error_value_factor">La valeur du facteur doit être supérieure à 0</string>
+    <string name="message_error_name_alredy_exist">Le nom de pièce \'%s\' existe déjà</string>
+    <string name="titleAddMoney">Ajouter une nouvelle devise</string>
+    <string name="messageAddMoney">Nouveau nom de pièce</string>
+    <string name="message_error_coin_name">Le nom de la devise ne peut pas être nul</string>
+    <string name="message_error_max_decimal">Il n\'est pas possible d\'ajouter plus de 8 chiffres</string>
+    <string name="delete">Effacer</string>
+    <string name="title_dialog_coin_delete">Suppression de la devise %s</string>
+    <string name="message_dialog_coin_delete">Voulez-vous vraiment supprimer la pièce %s ?</string>
+    <string name="info_coin_deleted">La devise \'%s\' a été supprimée</string>
+    <string name="info_coin_created">La pièce \'%s\' a été créée</string>
+</resources>
